@@ -1,0 +1,5 @@
+LIVRO DE RECEITAS AFETIVAS BILÍNGUE — 5º ANO D
+
+Abra index.html no navegador. Para publicar, envie todos os arquivos e a pasta assets para hospedagem estática.
+
+Páginas: 36; receitas organizadas por nome, português seguido de inglês. Avanço automático a cada 10 segundos, com repetição.
